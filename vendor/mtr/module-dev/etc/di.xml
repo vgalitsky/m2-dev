@@ -1,0 +1,85 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    
+    <preference for="Mtr\Dev\Block\Dev" type="Mtr\Dev\Block\DevPreference"/>
+    
+    <type name="Mtr\Dev\Block\Dev">
+        <plugin name="Mtr_Dev_Block_DevPlugin" type="Mtr\Dev\Plugin\Block\Dev\Plugin" sortOrder="10" disabled="false"/>
+    </type>
+
+    <virtualType name="VirtualData" type="Mtr\Dev\Helper\Data">
+        <arguments>
+            <argument name="somedata" xsi:type="string">di_data</argument>
+        </arguments>
+    </virtualType>
+    <type name="Mtr\Dev\Controller\Dev\Index">
+        <arguments>
+            <argument name="helper" xsi:type="object">VirtualData</argument>
+            <argument name="orighelper" xsi:type="object">Mtr\Dev\Helper\Data\Proxy</argument>
+        </arguments>
+    </type>
+
+    <type name="Mtr\Dev\Controller\Dev\Index">
+        <arguments>
+            <argument name="helper" xsi:type="object">VirtualData</argument>
+            <argument name="orighelper" xsi:type="object">Mtr\Dev\Helper\Data\Proxy</argument>
+        </arguments>
+    </type>
+    <!--post grid-->
+    
+    <!--type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="mtr_dev_post_listing_data_source" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <virtualType name="Mtr\Dev\Model\ResourceModel\Post\Grid\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">mtr_dev_post</argument>
+            <argument name="resourceModel" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post</argument>
+        </arguments>
+    </virtualType-->
+
+    <!--type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="mtr_dev_post_listing_data_source" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+    <type name="Mtr\Dev\Model\ResourceModel\Post\Grid\Collection">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">mtr_dev_post</argument>
+            <argument name="eventPrefix" xsi:type="string">mtr_dev_post_grid_collection</argument>
+            <argument name="eventObject" xsi:type="string">post_grid_collection</argument>
+            <argument name="resourceModel" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post</argument>
+        </arguments>
+    </type-->
+
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="post_listing_data_source" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post\Listing\Collection</item>
+                <item name="mtr_dev_post_listing_data_source" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+    
+    <virtualType name="Mtr\Dev\Model\ResourceModel\Post\Listing\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">mtr_dev_post</argument>
+            <argument name="resourceModel" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post</argument>
+        </arguments>
+    </virtualType>
+
+    <virtualType name="Mtr\Dev\Model\ResourceModel\Post\Grid\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">mtr_dev_post</argument>
+            <argument name="resourceModel" xsi:type="string">Mtr\Dev\Model\ResourceModel\Post</argument>
+        </arguments>
+    </virtualType>
+
+    <!-- -->
+    
+</config>
