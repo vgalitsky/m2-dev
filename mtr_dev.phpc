@@ -1,0 +1,687 @@
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Plugin/Block/Dev/Plugin.php
+-------------------------------------------------------------------------------------------------------------------------
+FOUND 7 ERRORS AND 3 WARNINGS AFFECTING 10 LINES
+-------------------------------------------------------------------------------------------------------------------------
+ 15 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 19 | WARNING | [ ] Comment block is missing
+ 21 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 22 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 24 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 25 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 28 | WARNING | [x] Function closing brace must go on the next line following the body; found 1 blank lines before brace
+ 29 | WARNING | [ ] Comment block is missing
+ 31 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 32 | ERROR   | [ ] Use of echo language construct is discouraged.
+-------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Model/Config/Source/CustomSelect.php
+--------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 5 LINES
+--------------------------------------------------------------------------------------------------------
+  2 | WARNING | [x] There must be one blank line after the namespace declaration
+  3 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+  4 | WARNING | [x] Whitespace found at end of line
+  5 | WARNING | [x] The implements keyword must be on the same line as the class name
+ 27 | WARNING | [x] Expected 1 newline at end of file; 0 found
+--------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 5 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Model/Event/Listener/LayoutGenerateBlocksAfter.php
+----------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 4 WARNINGS AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------------------------------
+ 13 | WARNING | [ ] Comment block is missing
+ 17 | WARNING | [x] Whitespace found at end of line
+ 20 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 20 | WARNING | [x] The closing brace for the class must go on the next line after the body
+----------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Model/Post.php
+-----------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 8 WARNINGS AFFECTING 8 LINES
+-----------------------------------------------------------------------------------------------------------
+  6 | WARNING | [ ] Visibility must be declared on all constants if your project supports PHP 7.1 or later
+  7 | WARNING | [ ] Missing PHP DocBlock for class property.
+  8 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 10 | WARNING | [ ] Comment block is missing
+ 12 | WARNING | [ ] Use ::class notation instead.
+ 15 | WARNING | [ ] Comment block is missing
+ 20 | WARNING | [ ] Comment block is missing
+ 24 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-----------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Block/DevPreference.php
+--------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 8 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------------------------------------------------------
+  4 | WARNING | [x] There must be one blank line after the namespace declaration
+ 10 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 11 | WARNING | [ ] Comment block is missing
+ 15 | WARNING | [x] The closing parenthesis and the opening brace of a multi-line function declaration must be on the same line
+ 22 | WARNING | [ ] Comment block is missing
+ 26 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 29 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 29 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 4 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Block/Dev.php
+--------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 7 WARNINGS AFFECTING 7 LINES
+--------------------------------------------------------------------------------------------------------------------------------
+  9 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 10 | WARNING | [ ] Comment block is missing
+ 14 | WARNING | [x] The closing parenthesis and the opening brace of a multi-line function declaration must be on the same line
+ 18 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 21 | WARNING | [ ] Comment block is missing
+ 25 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 28 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 28 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Block/Post.php
+----------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 5 WARNINGS AFFECTING 3 LINES
+----------------------------------------------------------------------------------------------
+  9 | WARNING | [ ] Comment block is missing
+  9 | WARNING | [ ] Possible useless method overriding detected
+ 13 | WARNING | [ ] Code must not contain multiple empty lines in a row; found 3 empty lines.
+ 16 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 16 | WARNING | [x] The closing brace for the class must go on the next line after the body
+----------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Controller/Dev/Index.php
+--------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 11 WARNINGS AFFECTING 11 LINES
+--------------------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | [x] Whitespace found at end of line
+ 13 | WARNING | [ ] Tag @category MUST NOT be used.
+ 14 | WARNING | [ ] Tag @package MUST NOT be used.
+ 15 | WARNING | [ ] Tag @author MUST NOT be used.
+ 21 | WARNING | [x] Whitespace found at end of line
+ 23 | WARNING | [x] The extends keyword must be on the same line as the class name
+ 26 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 31 | WARNING | [ ] Missing @param for argument in method annotation
+ 37 | WARNING | [x] The closing parenthesis and the opening brace of a multi-line function declaration must be on the same line
+ 45 | WARNING | [ ] Comment block is missing
+ 49 | WARNING | [x] Expected 1 newline at end of file; 0 found
+--------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 5 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Controller/Post/Index.php
+--------------------------------------------------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 11 WARNINGS AFFECTING 11 LINES
+--------------------------------------------------------------------------------------------------------------------------------
+ 12 | WARNING | [x] Whitespace found at end of line
+ 13 | WARNING | [ ] Tag @category MUST NOT be used.
+ 14 | WARNING | [ ] Tag @package MUST NOT be used.
+ 15 | WARNING | [ ] Tag @author MUST NOT be used.
+ 19 | WARNING | [x] Whitespace found at end of line
+ 21 | WARNING | [x] The extends keyword must be on the same line as the class name
+ 24 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 29 | WARNING | [ ] Missing @param for argument in method annotation
+ 33 | WARNING | [x] The closing parenthesis and the opening brace of a multi-line function declaration must be on the same line
+ 38 | WARNING | [ ] Comment block is missing
+ 42 | WARNING | [x] Expected 1 newline at end of file; 0 found
+--------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 5 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/registration.php
+------------------------------------------------------------------------------------
+FOUND 0 ERRORS AND 1 WARNING AFFECTING 1 LINE
+------------------------------------------------------------------------------------
+ 6 | WARNING | [x] Expected 1 newline at end of file; 0 found
+------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 1 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Helper/Data.php
+--------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 9 WARNINGS AFFECTING 8 LINES
+--------------------------------------------------------------------------------------------------------------------------------
+  9 | WARNING | [ ] Visibility must be declared on all constants if your project supports PHP 7.1 or later
+ 10 | WARNING | [ ] Missing PHP DocBlock for class property.
+ 11 | WARNING | [ ] Comment block is missing
+ 13 | WARNING | [x] Incorrect spacing between argument "$somedata" and equals sign; expected 1 but found 0
+ 13 | WARNING | [x] Incorrect spacing between default value and equals sign for argument "$somedata"; expected 1 but found 0
+ 15 | WARNING | [x] The closing parenthesis and the opening brace of a multi-line function declaration must be on the same line
+ 17 | ERROR   | [ ] Use of echo language construct is discouraged.
+ 21 | WARNING | [ ] Comment block is missing
+ 30 | WARNING | [x] Expected 1 newline at end of file; 0 found
+ 30 | WARNING | [x] The closing brace for the class must go on the next line after the body
+--------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 5 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Setup/InstallSchema.php
+-----------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 235 WARNINGS AFFECTING 89 LINES
+-----------------------------------------------------------------------------------------------------------------------------------
+   1 | ERROR   | [ ] InstallSchema scripts are obsolete. Please use declarative schema approach in module's etc/db_schema.xml file
+   7 | WARNING | [x] There must be one blank line after the last USE statement; 0 found;
+   8 | WARNING | [x] Opening brace of a class must be on the line after the definition
+  10 | WARNING | [ ] Comment block is missing
+  14 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  14 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 3
+  15 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  15 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  15 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  16 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  16 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 3
+  17 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  17 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  18 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  18 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  18 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  19 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  19 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  19 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  20 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  20 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  20 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  21 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  21 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  21 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  22 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  22 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  22 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  23 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  23 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  23 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  24 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  24 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  24 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  25 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  25 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  25 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  26 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  26 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  26 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  27 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  27 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  27 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  28 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  28 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  29 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  29 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  30 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  30 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  30 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  31 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  31 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  31 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  32 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  32 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  32 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  33 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  33 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  33 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  34 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  34 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  34 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  35 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  35 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  36 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  36 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  37 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  37 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  37 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  38 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  38 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  38 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  39 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  39 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  39 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  40 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  40 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  40 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  41 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  41 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  41 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  42 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  42 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  43 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  43 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  44 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  44 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  44 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  45 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  45 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  45 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  46 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  46 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  46 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  47 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  47 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  47 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  48 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  48 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  48 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  49 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  49 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  50 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  50 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  51 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  51 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  51 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  52 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  52 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  52 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  53 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  53 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  53 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  54 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  54 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  54 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  55 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  55 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  55 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  56 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  56 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  57 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  57 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  58 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  58 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  58 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  59 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  59 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  59 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  60 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  60 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  60 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  61 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  61 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  61 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  62 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  62 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  62 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  63 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  63 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  64 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  64 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  65 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  65 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  65 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  66 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  66 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  66 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  67 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  67 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  67 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  68 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  68 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  68 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  69 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  69 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  69 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  70 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  70 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  71 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  71 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  72 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  72 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  72 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  73 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  73 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  73 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  74 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  74 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  74 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  75 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  75 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  75 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  76 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  76 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  76 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 6
+  77 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  77 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  78 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  78 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  78 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  79 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  79 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  79 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  80 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  80 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  80 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  81 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  81 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  81 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  82 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  82 | WARNING | [x] Multi-line function call not indented correctly; expected 4 spaces but found 5
+  82 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  82 | WARNING | [x] Closing parenthesis of a multi-line function call must be on a line by itself
+  83 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  83 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  84 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  84 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 3
+  86 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  86 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 3
+  87 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  87 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  87 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  88 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  88 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  88 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  89 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  89 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 5
+  89 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  89 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  90 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  90 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 5
+  90 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  90 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  91 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  91 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 5
+  91 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  91 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 5
+  92 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  92 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  92 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  93 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  93 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  93 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  94 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  94 | WARNING | [x] Multi-line function call not indented correctly; expected 7 spaces but found 4
+  94 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 4
+  95 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  95 | WARNING | [x] Line indented incorrectly; expected at least 12 spaces, found 3
+  96 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  96 | WARNING | [x] Line indented incorrectly; expected 8 spaces, found 2
+  96 | WARNING | [x] Closing brace indented incorrectly; expected 8 spaces, found 2
+  97 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  97 | WARNING | [x] Line indented incorrectly; expected at least 8 spaces, found 2
+  99 | WARNING | [x] Function closing brace must go on the next line following the body; found 1 blank lines before brace
+ 100 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-----------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 234 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /home/mtr/.mtr/dev/src/m2/htdoc/vendor/mtr/module-dev/src/Dev/Setup/UpgradeSchema.php
+-----------------------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AND 250 WARNINGS AFFECTING 92 LINES
+-----------------------------------------------------------------------------------------------------------------------------------
+   1 | ERROR   | [ ] UpgradeSchema scripts are obsolete. Please use declarative schema approach in module's etc/db_schema.xml file
+  10 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  10 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 1
+  10 | WARNING | [ ] Comment block is missing
+  10 | WARNING | [x] Expected 0 spaces after opening parenthesis; 1 found
+  10 | WARNING | [x] Expected 0 spaces before closing parenthesis; 1 found
+  10 | WARNING | [x] Opening brace should be on a new line
+  11 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  11 | WARNING | [x] Line indented incorrectly; expected at least 8 spaces, found 2
+  13 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  13 | WARNING | [x] Line indented incorrectly; expected at least 8 spaces, found 2
+  15 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  15 | WARNING | [x] Line indented incorrectly; expected 8 spaces, found 2
+  15 | WARNING | [ ] Expected "if (...) {\n"; found "if(...) {\n"
+  15 | WARNING | [x] Expected 1 space(s) after IF keyword; 0 found
+  16 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  16 | WARNING | [x] Line indented incorrectly; expected 12 spaces, found 3
+  17 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  17 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 4
+  18 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  18 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  18 | WARNING | [x] Line indented incorrectly; expected at least 16 spaces, found 5
+  19 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  19 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 4
+  20 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  20 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  21 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  21 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  21 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  22 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  22 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  22 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  23 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  23 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  23 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  24 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  24 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  24 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  25 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  25 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 7
+  25 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 7
+  26 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  26 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 7
+  26 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 7
+  27 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  27 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 7
+  27 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 7
+  28 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  28 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 7
+  28 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 7
+  29 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  29 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  29 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  30 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  30 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  30 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  31 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  31 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  32 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  32 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  33 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  33 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  33 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  34 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  34 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  34 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  35 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  35 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  35 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  36 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  36 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  36 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  37 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  37 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  37 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  38 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  38 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  39 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  39 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  40 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  40 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  40 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  41 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  41 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  41 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  42 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  42 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  42 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  43 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  43 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  43 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  44 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  44 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  44 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  45 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  45 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  46 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  46 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  47 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  47 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  47 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  48 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  48 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  48 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  49 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  49 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  49 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  50 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  50 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  50 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  51 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  51 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  51 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  52 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  52 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  53 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  53 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  54 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  54 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  54 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  55 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  55 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  55 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  56 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  56 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  56 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  57 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  57 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  57 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  58 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  58 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  58 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  59 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  59 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  60 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  60 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  61 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  61 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  61 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  62 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  62 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  62 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  63 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  63 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  63 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  64 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  64 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  64 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  65 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  65 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  65 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  66 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  66 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  67 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  67 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  68 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  68 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  68 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  69 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  69 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  69 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  70 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  70 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  70 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  71 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  71 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  71 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  72 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  72 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  72 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  73 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  73 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  74 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  74 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  75 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  75 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  75 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  76 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  76 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  76 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  77 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  77 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  77 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  78 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  78 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  78 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  79 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  79 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  79 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  80 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  80 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  81 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  81 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  81 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  82 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  82 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  82 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  83 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  83 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  83 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  84 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  84 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  84 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  85 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  85 | WARNING | [x] Multi-line function call not indented correctly; expected 5 spaces but found 6
+  85 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  85 | WARNING | [x] Closing parenthesis of a multi-line function call must be on a line by itself
+  86 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  86 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  87 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  87 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 4
+  89 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  89 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 4
+  90 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  90 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  90 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  91 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  91 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  91 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  92 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  92 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  92 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  92 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  93 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  93 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  93 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  93 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  94 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  94 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 6
+  94 | WARNING | [x] Multi-line function call not indented correctly; expected 9 spaces but found 6
+  94 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 6
+  95 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  95 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  95 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  96 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  96 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  96 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  97 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  97 | WARNING | [x] Multi-line function call not indented correctly; expected 8 spaces but found 5
+  97 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 5
+  98 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  98 | WARNING | [x] Line indented incorrectly; expected at least 25 spaces, found 4
+  99 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+  99 | WARNING | [x] Line indented incorrectly; expected 12 spaces, found 3
+ 100 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+ 100 | WARNING | [x] Line indented incorrectly; expected 8 spaces, found 2
+ 102 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+ 102 | WARNING | [x] Line indented incorrectly; expected at least 8 spaces, found 2
+ 103 | WARNING | [x] Spaces must be used to indent lines; tabs are not allowed
+ 103 | WARNING | [x] Line indented incorrectly; expected 4 spaces, found 1
+ 104 | WARNING | [x] Expected 1 newline at end of file; 0 found
+-----------------------------------------------------------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 248 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Time: 811ms; Memory: 18MB
+
